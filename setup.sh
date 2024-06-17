@@ -2,4 +2,4 @@
 
 sudo apt-get update
 sudp apt-get install sl
-alias sl="/usr/games/sl"git 
+alias sl="/usr/games/sl"
